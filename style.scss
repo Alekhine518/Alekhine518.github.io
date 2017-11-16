@@ -7,15 +7,15 @@
 @import "{{ site.theme }}"
 
 	
-//@import "reset";
-//@import "variables";
+@import "reset";
+@import "variables";
 
 // Syntax highlighting @import is at the bottom of this file
 
 /**************/
 /* BASE RULES */
 /**************/
-/*
+
 html {
   font-size: 100%;
 }
@@ -144,11 +144,11 @@ img {
 .clearfix:after {
     clear: both;
 }
-*/
+
 /*********************/
 /* LAYOUT / SECTIONS */
 /*********************/
-/*
+
 //
 // .masthead
 //
@@ -290,4 +290,4 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
-*/
+
