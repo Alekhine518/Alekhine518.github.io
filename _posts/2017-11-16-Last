@@ -1,3 +1,7 @@
+---
+layout: post
+title: Markdown Style Guide
+---
 ```python
 print('what will happen now?'
 ```
