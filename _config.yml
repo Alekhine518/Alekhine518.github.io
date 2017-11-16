@@ -2,6 +2,10 @@
 # This file contains configuration flags to customize your site
 #
 
+# https://github.com/pages-themes/minimal#usage
+# To use the Minimal theme: Add the following to your site's _config.yml: ...
+theme: jekyll-theme-minimal
+
 # Name of your site (displayed in the header)
 name: Wilhelm Wagenfeld
 
